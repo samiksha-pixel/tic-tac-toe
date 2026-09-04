@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "A classic Tic Tac Toe game with red and black themes and a score tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
